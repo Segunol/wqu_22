@@ -1,6 +1,9 @@
 # WorldQuant University MSc Fin. Engineering Capstone Project 
 ## Group 22 C18-S3
 
+The most up-to-date version of this repo is at:
+
+https://segunol@bitbucket.org/segunol/wqu_22.git
 
 This is the repository thats hosts our iPython Notebook for much of the computational analysis for our Project on " Smart Derivatives Contracting: Automating Interest Rates Swaps in the OTC Market through the DAML".
 
